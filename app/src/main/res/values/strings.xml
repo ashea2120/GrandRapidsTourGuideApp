@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">Grand Rapids Tour Guide App</string>
+
+
+    <string name="category_cafes">Coffee shops and cafes</string>
+
+    <string name="category_hotel">Hotels</string>
+
+    <string name="category_top_attract">Top Attractions</string>
+
+    <string name="category_breweries">Breweries</string>
+
+    <string name="category_festivals">Festivals</string>
+
+    <!--Отели-->
+    <string name="one_hotel_name">Amway Grand Plaza Hotel</string>
+    <string name="one_hotel_desc">The historic Amway Grand Plaza is a true destination in the heart of downtown Grand Rapids. It melds history, modernity, restaurants and river views into a single experience.</string>
+    <string name="one_hotel_addr">187 Monroe Ave NW,Grand Rapids, MI 49503</string>
+    <string name="one_hotel_work">Open 24 Hours</string>
+    <string name="one_hotel_tel">+1(616)774-2000</string>
+    <string name="one_hotel_site">https://amwaygrand.com/</string>
+
+    <string name="two_hotel_name">JW Marriott Grand Rapids</string>
+    <string name="two_hotel_desc">Refined lodging connected to a convention center, offering a spa, American dining and an indoor pool.</string>
+    <string name="two_hotel_addr">235 Louis St NW, Grand Rapids, MI 49503</string>
+    <string name="two_hotel_work">Open 24 Hours</string>
+    <string name="two_hotel_tel">+1(616)242-1500</string>
+    <string name="two_hotel_site">https://www.marriott.com/hotels/travel/grrjw-jw-marriott-grand-rapids/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2</string>
+
+    <string name="three_hotel_name">Homewood Suites by Hilton</string>
+    <string name="three_hotel_desc">Casual suites, some with city views, in a 19th-century property with a rooftop bar and an indoor pool.</string>
+    <string name="three_hotel_addr">161 Ottawa Ave NW, Grand Rapids, MI 49503</string>
+    <string name="three_hotel_work">Open 24 Hours</string>
+    <string name="three_hotel_tel">+1(616)451-2300</string>
+    <string name="three_hotel_site">https://homewoodsuites3.hilton.com/en/hotels/michigan/homewood-suites-by-hilton-grand-rapids-downtown-GRRDOHW/index.html</string>
+
+    <string name="four_hotel_name">Holiday Inn Grand Rapids Downtown</string>
+    <string name="four_hotel_desc">Modern lodging with an indoor pool, fitness center and on-site restaurant, plus free WiFi and parking.</string>
+    <string name="four_hotel_addr">10 Pearl St NW, Grand Rapids, MI 49504</string>
+    <string name="four_hotel_work">Open 24 Hours</string>
+    <string name="four_hotel_tel">+1(616)235-7611</string>
+    <string name="four_hotel_site">https://www.booking.com/hotel/ua/hostel-chemodan-2-odessa.ru.html</string>
+
+    <string name="five_hotel_name">City Flats Hotel</string>
+    <string name="five_hotel_desc">Modern hotel offering stylish rooms, plus a hip cocktail lounge and a market-driven bistro.</string>
+    <string name="five_hotel_addr">83 Monroe Center St NW, Grand Rapids, MI 49503</string>
+    <string name="five_hotel_work">Open 24 Hours</string>
+    <string name="five_hotel_tel">+1(616)608-1720</string>
+    <string name="five_hotel_site">http://cityflatshotel.com/</string>
+
+    <string name="six_hotel_name">Grand River Hotel</string>
+    <string name="six_hotel_desc">Modest quarters in a riverfront hotel with dining and an indoor pool, plus a free area shuttle.</string>
+    <string name="six_hotel_addr">270 Ann St NW, Grand Rapids, MI 49504</string>
+    <string name="six_hotel_work">Open 24 Hours</string>
+    <string name="six_hotel_tel">+1(616)363-9001</string>
+    <string name="six_hotel_site">https://www.choicehotels.com/michigan/grand-rapids/ascend-hotels/mi423?source=gyxt</string>
+
+    <!--Кафе-->
+    <string name="one_cafe_name">Bernardazzi</string>
+    <string name="one_cafe_desc">Добро пожаловать в ресторан "Бернардацци" - особый мир, в котором приятные сочетания вина и еды украшены живыми музыкальными этюдами. </string>
+    <string name="one_cafe_addr">ул. Бунина, 15</string>
+    <string name="one_cafe_work">Понедельник-Четверг с 12:00 до 00:00 Пятница-Суббота с 11:00 до 02:00 Воскресенье с 11:00 до 00:00</string>
+    <string name="one_cafe_tel">+380 (67) 000 25 11</string>
+    <string name="one_cafe_site">http://bernardazzi.com/</string>
+
+    <string name="two_cafe_name">Tavernetta</string>
+    <string name="two_cafe_desc">Провинциальный ресторан итальянской кухни, в котором готовят изысканные итальянские блюда и в буквальном смысле носят их на руках.</string>
+    <string name="two_cafe_addr">ул. Екатерининская, 45</string>
+    <string name="two_cafe_work">9:00 - 00:00</string>
+    <string name="two_cafe_tel">096 23-44-621</string>
+    <string name="two_cafe_site">http://www.tavernetta.ua/</string>
+
+    <string name="three_cafe_name">Стейкхаус. Мясо и вино</string>
+    <string name="three_cafe_desc">Ресторан «Стейкхаус. Мясо и вино», Одесса. Основан в 1998 году.</string>
+    <string name="three_cafe_addr">ул. Дерибасовская, 20 (угол Гаванной)</string>
+    <string name="three_cafe_work">Мы работаем с 11:00 до 2:00 часов</string>
+    <string name="three_cafe_tel">(0482) 34 87 82</string>
+    <string name="three_cafe_site">http://steak.od.ua/</string>
+
+    <string name="four_cafe_name">Fratelli</string>
+    <string name="four_cafe_desc">Fratelli – самое главное у нас в тарелке!</string>
+    <string name="four_cafe_addr">ул. Греческая 17</string>
+    <string name="four_cafe_work">С 12:00 до 23:45 СБ-ВС с 9:00 до 23:45</string>
+    <string name="four_cafe_tel">0487384848</string>
+    <string name="four_cafe_site">http://www.fratelli.ua/</string>
+
+    <string name="five_cafe_name">Компот</string>
+    <string name="five_cafe_desc">Сеть кафе, известная своим французским шармом и одесским гостеприимством.</string>
+    <string name="five_cafe_addr">Пантелеймоновская, 70</string>
+    <string name="five_cafe_work">с 7:00 до 23:00</string>
+    <string name="five_cafe_tel">0482 345-145</string>
+    <string name="five_cafe_site">http://www.kompot.ua/</string>
+
+    <!--Достропримечательности-->
+    <string name="one_fam_name">Одесский театр оперы и балета</string>
+    <string name="one_fam_desc">Одесский национальный академический театр оперы и балета — первый театр в Одессе по времени постройки, значению и известности.</string>
+    <string name="one_fam_addr">пер. Чайковского, 1</string>
+    <string name="one_fam_work">с 11:00 до 19:30 (кроме Пн.)</string>
+    <string name="one_fam_tel">+38 (048) 780-15-09</string>
+    <string name="one_fam_site">http://www.opera.odessa.ua/</string>
+
+    <string name="two_fam_name">Памятник де Ришельё</string>
+    <string name="two_fam_desc">Памятник герцогу де Ришельё в Одессе — бронзовый монумент в полный рост, посвящённый Арману Эмманюэлю дю Плесси, герцогу де Ришельё, открыт в 1828 году. Первый памятник, установленный в Одессе.</string>
+    <string name="two_fam_addr">Приморский бульвар, 7</string>
+    <string name="two_fam_work">24 часа в сутки</string>
+    <string name="two_fam_tel">-</string>
+    <string name="two_fam_site">-</string>
+
+    <string name="three_fam_name">Памятник апельсину</string>
+    <string name="three_fam_desc">Па́мятник Апельси́ну, кото́рый спас Оде́ссу — установленный в Одессе бронзовый монумент, посвящённый историческому событию — доставке в феврале 1800 года 3 000 свежих греческих апельсинов из Одесского порта в Санкт-Петербург в подарок от одесситов императору Павлу I. Памятник открыт в 2004 году, первоначально находился на улице Ланжероновской. В 2007 году перенесен на бульвар Искусств (ныне бульвар Жванецкого).</string>
+    <string name="three_fam_addr">бульвар Жванецкого</string>
+    <string name="three_fam_work">24 часа в сутки</string>
+    <string name="three_fam_tel">-</string>
+    <string name="three_fam_site">-</string>
+
+    <string name="four_fam_name">Потёмкинская лестница</string>
+    <string name="four_fam_desc">Потёмкинская лестница — бульварная лестница, ведущая к морю в Одессе. Архитектурное сооружение в стиле классицизма является памятником архитектуры первой половины XIX века и одной из главных достопримечательностей города.</string>
+    <string name="four_fam_addr"> бульвар Приморский</string>
+    <string name="four_fam_work">24 часа в сутки</string>
+    <string name="four_fam_tel">-</string>
+    <string name="four_fam_site">-</string>
+
+    <string name="five_fam_name">Памятник основателям Одессы</string>
+    <string name="five_fam_desc">Па́мятник основателям Одессы — памятник Екатерине II и её сподвижникам — де Рибасу, де Волану, Потемкину и Зубову. Расположен в Одессе на Екатерининской площади. Воздвигнут в 1900 году по проекту одесского архитектора Юрия Мелетьевича Дмитренко. Скульптор Михаил Петрович Попов, при участии скульпторов Бориса Васильевича Эдуардса, Леопольда Менционе, инженер А. А. Сикорский. В 1920 году демонтирован. Восстановлен в 2007 году.</string>
+    <string name="five_fam_addr">  пл. Екатерининская</string>
+    <string name="five_fam_work">24 часа в сутки</string>
+    <string name="five_fam_tel">-</string>
+    <string name="five_fam_site">-</string>
+
+    <!--Катакомбы-->
+    <string name="one_cat_name">Катакомбы Кантакузена</string>
+    <string name="one_cat_desc">Полуторачасовая обзорная экскурсия по центру Одессы со спуском в городские катакомбы на улице Бунина.</string>
+    <string name="one_cat_addr">улица Бунина</string>
+    <string name="one_cat_work">-</string>
+    <string name="one_cat_tel">+38(093)4390139</string>
+    <string name="one_cat_site">catacombs.od.ua</string>
+
+    <string name="two_cat_name">Музей партизанской славы</string>
+    <string name="two_cat_desc">В Музее партизанской славы представлены предметы быта партизан, образцы оружия и штабного оборудования, архивные документы, фотографии и личные вещи партизан, образцы художественного творчества членов отряда Молодцова-Бадаева.</string>
+    <string name="two_cat_addr">Одесская область, Беляевский район, с. Нерубайское</string>
+    <string name="two_cat_work">Любое время, если предварительно позвонить и договориться.</string>
+    <string name="two_cat_tel">067-292-30-55, 067-729-24-85</string>
+    <string name="two_cat_site">catacombs.od.ua</string>
+
+    <string name="three_cat_name">Музей "Тайны подземной Одессы"</string>
+    <string name="three_cat_desc">Музей "Тайны подземной Одессы" обустроен в катакомбах Молдаванки, где в XIX и начале XX века добывали камень для строительства города.</string>
+    <string name="three_cat_addr">Разумовская, 33</string>
+    <string name="three_cat_work">10.00, 14.00 и 18.00</string>
+    <string name="three_cat_tel">+380934390139</string>
+    <string name="three_cat_site">catacombs.od.ua</string>
+
+    <!--Музеи-->
+    <string name="one_mus_name">Одесский музей западного и восточного искусства</string>
+    <string name="one_mus_desc">Одесский музей западного и восточного искусства — один из крупнейших художественных музеев Украины, коллекция которого обладает рядом произведений высокой художественной и культурной ценности.</string>
+    <string name="one_mus_addr"> ул. Пушкинская, 9</string>
+    <string name="one_mus_work">с 10.00 до 17.00 (касса до 16.30) зимой,с 10.30. до 18.00 (касса до 17.30) летом. Выходной день - Среда.</string>
+    <string name="one_mus_tel">+38 (048)722-48-15</string>
+    <string name="one_mus_site">http://www.oweamuseum.odessa.ua</string>
+
+    <string name="two_mus_name">Одесский литературный музей</string>
+    <string name="two_mus_desc">Литературная Одесса - это не только имена писателей, биографически или творчески связанные с городом, но и художественный образ, обогативший мировую культуру.</string>
+    <string name="two_mus_addr">ул, Ланжероновская, 2</string>
+    <string name="two_mus_work"> с 10:00 до 17:00, кроме понедельника.</string>
+    <string name="two_mus_tel">8 (048) 722-33-70 </string>
+    <string name="two_mus_site">http://museum-literature.odessa.ua/</string>
+
+    <string name="three_mus_name">Одесский археологический музей</string>
+    <string name="three_mus_desc">Одесский археологический музей Национальной академии наук Украины является старейшим музейным учреждением нашей страны. Год основания - 1825.</string>
+    <string name="three_mus_addr">ул.Ланжероновская, 4</string>
+    <string name="three_mus_work"> с 10:00 до 17:00, кроме понедельника.</string>
+    <string name="three_mus_tel">(048) 725-63-22</string>
+    <string name="three_mus_site">http://archaeology.odessa.ua/</string>
+
+    <string name="four_mus_name">Одесский художественный музей</string>
+    <string name="four_mus_desc">Здание, в котором расположен Одесский художественный музей было построено в период между 1824 и 1828 годами. Автор проекта не установлен.</string>
+    <string name="four_mus_addr">ул. Софиевская 5а</string>
+    <string name="four_mus_work">Пн, Ср-Вс 10:30-17:30, касса до 16:30</string>
+    <string name="four_mus_tel">+38 048 723 72 87</string>
+    <string name="four_mus_site">http://ofam.od.ua/</string>
+
+    <string name="five_mus_name">Мемориал героической обороны Одессы 411-й береговой батареи</string>
+    <string name="five_mus_desc">Мемориал героической обороны Одессы 411-й береговой батареи — мемориальный комплекс, посвящённый героической обороне Одессы во время Великой Отечественной войны. В состав мемориального комплекса входят музей, выставка военной техники под открытым небом, батарея береговой обороны, большой засаженный дубами парк.</string>
+    <string name="five_mus_addr">ул. Дача Ковалевского, 119А</string>
+    <string name="five_mus_work">24 часа в сутки</string>
+    <string name="five_mus_tel">0482 401 833</string>
+    <string name="five_mus_site">-</string>
+
+
+</resources>
