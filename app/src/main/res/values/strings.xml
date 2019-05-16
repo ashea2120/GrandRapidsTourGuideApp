@@ -127,62 +127,62 @@
     <string name="five_fam_site">https://www.fordlibrarymuseum.gov/</string>
 
     <!--Festivals-->
-    <string name="one_cat_name">Grand Rapids Balloon Festival</string>
-    <string name="one_cat_desc">Hot Air Balloons are the oldest human-carrying flight technology and RE/MAX is proud to be sharing the beauty of these aircrafts with Grand Rapids residents.</string>
-    <string name="one_cat_addr">4362 Cascade Rd SE #208, Grand Rapids, MI 49546</string>
-    <string name="one_cat_work">July 18, 2019 from 4:00 P.M.-9:00 P.M.</string>
-    <string name="one_cat_tel">+1(616)957-0700</string>
-    <string name="one_cat_site">https://www.facebook.com/remaxofgrandrapidsballoonfestival/</string>
+    <string name="one_fest_name">Grand Rapids Balloon Festival</string>
+    <string name="one_fest_desc">Hot Air Balloons are the oldest human-carrying flight technology and RE/MAX is proud to be sharing the beauty of these aircrafts with Grand Rapids residents.</string>
+    <string name="one_fest_addr">4362 Cascade Rd SE #208, Grand Rapids, MI 49546</string>
+    <string name="one_fest_work">July 18, 2019 from 4:00 P.M.-9:00 P.M.</string>
+    <string name="one_fest_tel">+1(616)957-0700</string>
+    <string name="one_fest_site">https://www.facebook.com/remaxofgrandrapidsballoonfestival/</string>
 
-    <string name="two_cat_name">Gildas Laughfest</string>
-    <string name="two_cat_desc">LaughFest is a fest that is made for all of us, and that is a good thing. We could all use more laughter.</string>
-    <string name="two_cat_addr">1806 Bridge St NW, Grand Rapids, MI 49504</string>
-    <string name="two_cat_work">9:00 A.M. - 6:00 P.M.</string>
-    <string name="two_cat_tel">+1(616)735-4242</string>
-    <string name="two_cat_site">https://www.laughfestgr.org/</string>
+    <string name="two_fest_name">Gildas Laughfest</string>
+    <string name="two_fest_desc">LaughFest is a fest that is made for all of us, and that is a good thing. We could all use more laughter.</string>
+    <string name="two_fest_addr">1806 Bridge St NW, Grand Rapids, MI 49504</string>
+    <string name="two_fest_work">9:00 A.M. - 6:00 P.M.</string>
+    <string name="two_fest_tel">+1(616)735-4242</string>
+    <string name="two_fest_site">https://www.laughfestgr.org/</string>
 
-    <string name="three_cat_name">Grand Rapids Greek Festival</string>
-    <string name="three_cat_desc">Grand Rapids greatest cultural event, featuring live music, homemade food and pastries, cooking lessons, dance demonstrations, and a full bar!</string>
-    <string name="three_cat_addr">330 Lakeside Dr NE, Grand Rapids, MI 49503</string>
-    <string name="three_cat_work">August 16-18, 2019 All-Day</string>
-    <string name="three_cat_tel">+1(616)454-6563</string>
-    <string name="three_cat_site">https://www.grgreekfest.com/</string>
+    <string name="three_fest_name">Grand Rapids Greek Festival</string>
+    <string name="three_fest_desc">Grand Rapids greatest cultural event, featuring live music, homemade food and pastries, cooking lessons, dance demonstrations, and a full bar!</string>
+    <string name="three_fest_addr">330 Lakeside Dr NE, Grand Rapids, MI 49503</string>
+    <string name="three_fest_work">August 16-18, 2019 All-Day</string>
+    <string name="three_fest_tel">+1(616)454-6563</string>
+    <string name="three_fest_site">https://www.grgreekfest.com/</string>
 
     <!--Breweries-->
-    <string name="one_mus_name">Grand Rapids Brewing Co.</string>
-    <string name="one_mus_desc">Organic ales and a menu of locally sourced pub grub served in a rustic setting with reclaimed wood.</string>
-    <string name="one_mus_addr">1 Ionia Ave SW, Grand Rapids, MI 49503</string>
-    <string name="one_mus_work">11:00 A.M. - 12:00 A.M.</string>
-    <string name="one_mus_tel">+1(616)458-7000</string>
-    <string name="one_mus_site">https://grbrewingcompany.com</string>
+    <string name="one_brew_name">Grand Rapids Brewing Co.</string>
+    <string name="one_brew_desc">Organic ales and a menu of locally sourced pub grub served in a rustic setting with reclaimed wood.</string>
+    <string name="one_brew_addr">1 Ionia Ave SW, Grand Rapids, MI 49503</string>
+    <string name="one_brew_work">11:00 A.M. - 12:00 A.M.</string>
+    <string name="one_brew_tel">+1(616)458-7000</string>
+    <string name="one_brew_site">https://grbrewingcompany.com</string>
 
-    <string name="two_mus_name">Brewery Vivant</string>
-    <string name="two_mus_desc">Evocative brewery in a former chapel featuring tours and a pub offering craft beers and French fare.</string>
-    <string name="two_mus_addr">925 Cherry St SE, Grand Rapids, MI 49506</string>
-    <string name="two_mus_work">3:00 P.M. - 11:00 P.M.</string>
-    <string name="two_mus_tel">+1(616)719-1604</string>
-    <string name="two_mus_site">https://www.breweryvivant.com/</string>
+    <string name="two_brew_name">Brewery Vivant</string>
+    <string name="two_brew_desc">Evocative brewery in a former chapel featuring tours and a pub offering craft beers and French fare.</string>
+    <string name="two_brew_addr">925 Cherry St SE, Grand Rapids, MI 49506</string>
+    <string name="two_brew_work">3:00 P.M. - 11:00 P.M.</string>
+    <string name="two_brew_tel">+1(616)719-1604</string>
+    <string name="two_brew_site">https://www.breweryvivant.com/</string>
 
-    <string name="three_mus_name">Founders Brewing Company"</string>
-    <string name="three_mus_desc">Overlooking the brewing facilities, this hangout with high ceilings serves craft beer and sandwiches.</string>
-    <string name="three_mus_addr">235 Grandville Ave SW, Grand Rapids, MI 49503</string>
-    <string name="three_mus_work">11:00 A.M. - 2:00 A.M.</string>
-    <string name="three_mus_tel">+1(616)776-1195</string>
-    <string name="three_mus_site">https://www.foundersbrewing.com</string>
+    <string name="three_brew_name">Founders Brewing Company"</string>
+    <string name="three_brew_desc">Overlooking the brewing facilities, this hangout with high ceilings serves craft beer and sandwiches.</string>
+    <string name="three_brew_addr">235 Grandville Ave SW, Grand Rapids, MI 49503</string>
+    <string name="three_brew_work">11:00 A.M. - 2:00 A.M.</string>
+    <string name="three_brew_tel">+1(616)776-1195</string>
+    <string name="three_brew_site">https://www.foundersbrewing.com</string>
 
-    <string name="four_mus_name">New Holland Brewery - The Knickerbocker</string>
-    <string name="four_mus_desc">The Knickerbocker is a taste of many world traditions that have been rediscovered and presented with a fresh perspective. Enjoy a full drink menu including craft beer, artisan spirits, handcrafted cocktails, wine and cider. The Knickerbocker presents a rustic, seasonal menu showcasing local and regional agriculture, old world techniques, with a fresh perspective; including nose to tail butchery, heirloom produce and scratch cooking over fire.</string>
-    <string name="four_mus_addr">417 Bridge St NW, Grand Rapids, MI 49504</string>
-    <string name="four_mus_work">11:00 A.M. - 12:00 A.M.</string>
-    <string name="four_mus_tel">+1(616)345-5642</string>
-    <string name="four_mus_site">https://newhollandbrew.com/</string>
+    <string name="four_brew_name">New Holland Brewery - The Knickerbocker</string>
+    <string name="four_brew_desc">The Knickerbocker is a taste of many world traditions that have been rediscovered and presented with a fresh perspective. Enjoy a full drink menu including craft beer, artisan spirits, handcrafted cocktails, wine and cider. The Knickerbocker presents a rustic, seasonal menu showcasing local and regional agriculture, old world techniques, with a fresh perspective; including nose to tail butchery, heirloom produce and scratch cooking over fire.</string>
+    <string name="four_brew_addr">417 Bridge St NW, Grand Rapids, MI 49504</string>
+    <string name="four_brew_work">11:00 A.M. - 12:00 A.M.</string>
+    <string name="four_brew_tel">+1(616)345-5642</string>
+    <string name="four_brew_site">https://newhollandbrew.com/</string>
 
-    <string name="five_mus_name">The Mitten Brewing Company</string>
-    <string name="five_mus_desc">Craft brewery and pizzeria set in a restored Victorian-era firehouse with old-time baseball decor.</string>
-    <string name="five_mus_addr">527 Leonard St NW, Grand Rapids, MI 49504</string>
-    <string name="five_mus_work">11:30 A.M. - 12:00 A.M.</string>
-    <string name="five_mus_tel">+1(616)608-5612</string>
-    <string name="five_mus_site">http://www.mittenbrewing.com/</string>
+    <string name="five_brew_name">The Mitten Brewing Company</string>
+    <string name="five_brew_desc">Craft brewery and pizzeria set in a restored Victorian-era firehouse with old-time baseball decor.</string>
+    <string name="five_brew_addr">527 Leonard St NW, Grand Rapids, MI 49504</string>
+    <string name="five_brew_work">11:30 A.M. - 12:00 A.M.</string>
+    <string name="five_brew_tel">+1(616)608-5612</string>
+    <string name="five_brew_site">http://www.mittenbrewing.com/</string>
 
 
 </resources>

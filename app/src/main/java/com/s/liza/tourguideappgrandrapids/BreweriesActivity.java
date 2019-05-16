@@ -15,11 +15,11 @@ public class BreweriesActivity extends AppCompatActivity {
 
         ArrayList<Info> info = new ArrayList<Info>();
 
-        info.add(new Info(R.drawable.grandrapidsbrewingco, R.string.one_mus_name, R.string.one_mus_desc, R.string.one_mus_addr, R.string.one_mus_work, R.string.one_mus_tel, R.string.one_mus_site));
-        info.add(new Info(R.drawable.breweryvivant, R.string.two_mus_name, R.string.two_mus_desc, R.string.two_mus_addr, R.string.two_mus_work, R.string.one_mus_tel, R.string.two_mus_site));
-        info.add(new Info(R.drawable.foundersbrewingcompany, R.string.three_mus_name, R.string.three_mus_desc, R.string.three_mus_addr, R.string.three_mus_work, R.string.three_mus_tel, R.string.three_mus_site));
-        info.add(new Info(R.drawable.newhollandbrewery, R.string.four_mus_name, R.string.four_mus_desc, R.string.four_mus_addr, R.string.four_mus_work, R.string.four_mus_tel, R.string.four_mus_site));
-        info.add(new Info(R.drawable.mittenbrewingcompany, R.string.five_mus_name, R.string.five_mus_desc, R.string.five_mus_addr, R.string.five_mus_work, R.string.five_mus_tel, R.string.five_mus_site));
+        info.add(new Info(R.drawable.grandrapidsbrewingco, R.string.one_brew_name, R.string.one_brew_desc, R.string.one_brew_addr, R.string.one_brew_work, R.string.one_brew_tel, R.string.one_brew_site));
+        info.add(new Info(R.drawable.breweryvivant, R.string.two_brew_name, R.string.two_brew_desc, R.string.two_brew_addr, R.string.two_brew_work, R.string.one_brew_tel, R.string.two_brew_site));
+        info.add(new Info(R.drawable.foundersbrewingcompany, R.string.three_brew_name, R.string.three_brew_desc, R.string.three_brew_addr, R.string.three_brew_work, R.string.three_brew_tel, R.string.three_brew_site));
+        info.add(new Info(R.drawable.newhollandbrewery, R.string.four_brew_name, R.string.four_brew_desc, R.string.four_brew_addr, R.string.four_brew_work, R.string.four_brew_tel, R.string.four_brew_site));
+        info.add(new Info(R.drawable.mittenbrewingcompany, R.string.five_brew_name, R.string.five_brew_desc, R.string.five_brew_addr, R.string.five_brew_work, R.string.five_brew_tel, R.string.five_brew_site));
 
         InfoAdapter adapter = new InfoAdapter(this, info);
         ListView listView = (ListView) findViewById(R.id.list);

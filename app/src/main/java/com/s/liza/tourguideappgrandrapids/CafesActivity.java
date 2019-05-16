@@ -15,7 +15,7 @@ public class CafesActivity extends AppCompatActivity {
 
         ArrayList<Info> info = new ArrayList<Info>();
         info.add(new Info(R.drawable.happycatcafe, R.string.one_cafe_name, R.string.one_cafe_desc, R.string.one_cafe_addr, R.string.one_cafe_work, R.string.one_cafe_tel, R.string.one_cafe_site));
-        info.add(new Info(R.drawable.lanternandcoffeecafe, R.string.two_cafe_name, R.string.two_cafe_desc, R.string.two_cafe_addr, R.string.two_cafe_work, R.string.two_cafe_tel, R.string.two_cafe_site));
+        info.add(new Info(R.drawable.somerestaurant, R.string.two_cafe_name, R.string.two_cafe_desc, R.string.two_cafe_addr, R.string.two_cafe_work, R.string.two_cafe_tel, R.string.two_cafe_site));
         info.add(new Info(R.drawable.risinggrindscafe, R.string.three_cafe_name, R.string.three_cafe_desc, R.string.three_cafe_addr, R.string.three_cafe_work, R.string.three_cafe_tel, R.string.three_cafe_site));
         info.add(new Info(R.drawable.sparrowsscafe, R.string.four_cafe_name, R.string.four_cafe_desc, R.string.four_cafe_addr, R.string.four_cafe_work, R.string.four_cafe_tel, R.string.four_cafe_site));
         info.add(new Info(R.drawable.mayanbuzzcafe, R.string.five_cafe_name, R.string.five_cafe_desc, R.string.five_cafe_addr, R.string.five_cafe_work, R.string.five_cafe_tel, R.string.five_cafe_site));
