@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:background="@color/tan_background"
         android:orientation="vertical"
-        tools:context="com.s.liza.tourguideappodessa.MainActivity">
+        tools:context="com.s.liza.tourguideappgrandrapids.MainActivity">
 
 
         <TextView
@@ -27,22 +27,22 @@
             android:text="@string/category_cafes" />
 
         <TextView
-            android:id="@+id/fam_attract"
+            android:id="@+id/top_attract"
             style="@style/CategoryStyle"
-            android:background="@color/category_fam_attract"
+            android:background="@color/category_top_attract"
             android:text="@string/category_top_attract" />
 
         <TextView
-            android:id="@+id/museums"
+            android:id="@+id/festivals"
             style="@style/CategoryStyle"
-            android:background="@color/category_museums"
-            android:text="@string/category_breweries" />
+            android:background="@color/category_festivals"
+            android:text="@string/category_festivals" />
 
         <TextView
-            android:id="@+id/catacombs"
+            android:id="@+id/breweries"
             style="@style/CategoryStyle"
-            android:background="@color/category_catacombs"
-            android:text="@string/category_festivals" />
+            android:background="@color/category_breweries"
+            android:text="@string/category_breweries" />
 
     </LinearLayout>
 </ScrollView>

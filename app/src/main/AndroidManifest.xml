@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.s.liza.tourguideappodessa">
+    package="com.s.liza.tourguideappgrandrapids">
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.s.liza.tourguideappgrandrapids.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -16,20 +16,20 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".HotelActivity"
+            android:name="com.s.liza.tourguideappgrandrapids.HotelActivity"
             android:label="@string/category_hotel" />
         <activity
-            android:name=".CafesActivity"
+            android:name="com.s.liza.tourguideappgrandrapids.CafesActivity"
             android:label="@string/category_cafes" />
         <activity
-            android:name=".TopAttractionsActivity"
+            android:name="com.s.liza.tourguideappgrandrapids.TopAttractionsActivity"
             android:label="@string/category_top_attract" />
         <activity
-            android:name=".BreweriesActivity"
-            android:label="@string/category_breweries" />
+            android:name="com.s.liza.tourguideappgrandrapids.BreweriesActivity"
+            android:label="@string/category_festivals" />
         <activity
-            android:name=".FestivalsActivity"
-            android:label="@string/category_festivals">
+            android:name="com.s.liza.tourguideappgrandrapids.FestivalsActivity"
+            android:label="@string/category_breweries">
 
         </activity>
     </application>
